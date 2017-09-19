@@ -20,3 +20,11 @@ int main()
   
   return 0;
 }
+
+/* compile and run
+$ gcc xxx.c -o pt
+$./pt
+
+$gcc xxx.c -lpthread -o pt
+$./pt
+*/
